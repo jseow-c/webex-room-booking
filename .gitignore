@@ -1,0 +1,17 @@
+node_modules/
+
+.env
+.vscode
+
+img/*
+data.json
+demo.json
+
+non_features
+
+resources/data.js
+resources/old_data.js
+resources/whitelist.js
+resources/rooms.json
+resources/token.json
+

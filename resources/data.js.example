@@ -1,0 +1,18 @@
+module.exports = {
+  EWS_ListOfRooms_SNG15: [
+    {
+      "name": "Room 1",
+      "alias": "room1@email.com",
+      "floor": "1",
+      "size": "L",
+      "description": "6 Seats, Single Screen"
+    },
+    {
+      "name": "Room 2",
+      "alias": "room2@email.com",
+      "floor": "1",
+      "size": "S",
+      "description": "6 Seats, Single Screen"
+    }
+  ]
+};

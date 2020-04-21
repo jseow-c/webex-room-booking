@@ -1,0 +1,5 @@
+exports.webexWhitelist = [
+  "Some Webex ID 1 - you can retrieve from API",
+  "Some Webex ID 2 - you can retrieve from API",
+  "Some Webex ID 3 - you can retrieve from API",
+];

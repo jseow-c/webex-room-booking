@@ -1,0 +1,33 @@
+{
+  "name": "room-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.617.0",
+    "axios": "^0.19.2",
+    "bluebird": "^3.7.2",
+    "botbuilder-adapter-web": "^1.0.6",
+    "botbuilder-adapter-webex": "^1.0.5",
+    "botkit": "^4.6.2",
+    "botkit-plugin-cms": "^1.0.3",
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "dialogflow": "^1.1.2",
+    "dotenv": "^8.2.0",
+    "ews-javascript-api": "^0.10.0",
+    "fs": "0.0.1-security",
+    "lzutf8": "^0.5.5",
+    "moment-timezone": "^0.5.27",
+    "ngrok": "^3.2.7",
+    "node-fetch": "^2.6.0",
+    "proxy-agent": "^3.1.1",
+    "puppeteer": "^2.1.1",
+    "restify": "^8.5.1"
+  }
+}
